@@ -1,1 +1,1 @@
-# digitalframeworks-spring2020
+# Digital Frameworks Spring 2020
