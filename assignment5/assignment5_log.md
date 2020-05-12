@@ -1,5 +1,7 @@
 # Assignment 5
 
+I cleaned the Illinois sex offense registry using a combination of OpenRefine and Python.
+
 ## Middle Name
 * Changed blank middle names to `n/a`
 
